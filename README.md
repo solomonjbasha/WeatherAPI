@@ -19,17 +19,8 @@ Functions:
 - Fetches data about a location weather from an open source weather API.
 
 Features:
-- At the moment it can only display your current location.
 - Displays a brief historic forecast chart.
 - showcases forecast for the upcoming days. 
 - Includes automatic background transition with effects.
 - Responsive and works well with mobiles and other devices.
-
-Check out project brief:
-
-
-Bugs/Code Review:
-- Search button needs to be optimized to search for other locations.
-
-
 
