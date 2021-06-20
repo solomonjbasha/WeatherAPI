@@ -25,6 +25,9 @@ Features:
 - Includes automatic background transition with effects.
 - Responsive and works well with mobiles and other devices.
 
+Check out project brief:
+
+
 Bugs/Code Review:
 - Search button needs to be optimized to search for other locations.
 
